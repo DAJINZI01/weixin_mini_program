@@ -1,0 +1,5 @@
+<!--pages/home/home.wxml-->
+<text class=".title">hello world</text>
+<button>what is a button</button>
+<button>what is a button</button>
+<image src="http://t8.baidu.com/it/u=3571592872,3353494284&fm=79&app=86&f=JPEG?w=1200&h=1290"></image>
